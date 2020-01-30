@@ -6,6 +6,10 @@ Download `new-york-latest-free.shp.zip` from the [GEOFABRIK server](http://downl
 
 ## Graphics
 
-![](ai/Artboard 1.png)
+_Map_
 
-1[](FACTCHECK BIG REFERENCE.png)
+![](ai/Artboard%201.png)
+
+_Factcheck reference_
+
+![](FACTCHECK%20BIG%20REFERENCE.png)
