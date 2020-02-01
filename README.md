@@ -2,7 +2,9 @@
 
 ## Setup
 
-Download `new-york-latest-free.shp.zip` from the [GEOFABRIK server](http://download.geofabrik.de/north-america/us/new-york.html). Put the directory into `./`.
+1. Download `new-york-latest-free.shp.zip` from the [GEOFABRIK server](http://download.geofabrik.de/north-america/us/new-york.html). Unzip the files, putting the `new-york-latest-free.shp` directory into `./raw-shapefiles`.
+
+2. Run `make clip-ny`, which clips the shapefiles in `./raw-shapefiles/new-york-latest-free.shp/` and outputs it in the file `./new-york-latest-free.shp`.
 
 ## Graphics
 
